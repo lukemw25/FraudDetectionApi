@@ -1,0 +1,27 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pkl
+
+# Environments
+.venv/
+venv/
+env/
+*.env
+
+# Data and models
+data/*.csv
+models/*.pkl
+mlruns/
+*.log
+
+# OS and editor-specific
+.DS_Store
+Thumbs.db
+.vscode/
+
+# pytest cache
+.pytest_cache/
+
+# notebooks checkpoint files (if using Jupyter)
+.ipynb_checkpoints/

@@ -1,0 +1,7 @@
+__pycache__/
+*.ipynb
+*.pkl
+data/
+venv/
+mlruns/
+notebooks/
